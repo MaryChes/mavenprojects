@@ -3602,3 +3602,223 @@
 2016-08-24 13:58:22,329 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-08-24 13:58:22,331 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-08-24 13:58:22,331 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 16:23:35,110 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-08-24 16:23:36,842 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.labprojectfive:projectfive:1.0 @ C:\Users\admin\Desktop\labMavenWorkspace\projectfive\pom.xml.
+2016-08-24 16:23:37,278 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.labprojectfour:projectfour:1.0 @ C:\Users\admin\Desktop\labMavenWorkspace\projectfour\pom.xml.
+2016-08-24 16:23:39,740 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.pom
+2016-08-24 16:23:39,850 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0/maven-plugin-api-2.0.pom
+2016-08-24 16:23:39,943 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0/maven-2.0.pom
+2016-08-24 16:23:40,037 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0/maven-2.0.pom
+2016-08-24 16:23:40,146 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2016-08-24 16:23:40,598 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.8/plexus-utils-1.5.8.jar
+2016-08-24 16:23:41,144 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:23:41,285 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.8.0/maven-jaxb2-plugin-core-0.8.0.pom
+2016-08-24 16:23:41,441 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.8.0/maven-jaxb2-plugin-core-0.8.0.pom
+2016-08-24 16:23:41,659 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno/1.3.1/maven-plugin-anno-1.3.1.pom
+2016-08-24 16:23:41,815 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno/1.3.1/maven-plugin-anno-1.3.1.pom
+2016-08-24 16:23:41,924 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno-parent/1.3.1/maven-plugin-anno-parent-1.3.1.pom
+2016-08-24 16:23:42,034 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno-parent/1.3.1/maven-plugin-anno-parent-1.3.1.pom
+2016-08-24 16:23:42,158 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.8.0/maven-jaxb22-plugin-0.8.0.pom
+2016-08-24 16:23:42,377 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.8.0/maven-jaxb22-plugin-0.8.0.pom
+2016-08-24 16:23:42,502 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.4-1/jaxb-impl-2.2.4-1.pom
+2016-08-24 16:23:42,798 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.4-1/jaxb-impl-2.2.4-1.pom
+2016-08-24 16:23:43,001 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.3/jaxb-api-2.2.3.pom
+2016-08-24 16:23:43,126 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.3/jaxb-api-2.2.3.pom
+2016-08-24 16:23:43,235 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.4-1/jaxb-xjc-2.2.4-1.pom
+2016-08-24 16:23:43,344 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.4-1/jaxb-xjc-2.2.4-1.pom
+2016-08-24 16:23:43,484 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.8.0/maven-jaxb2-plugin-core-0.8.0.jar
+2016-08-24 16:23:43,796 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.8.0/maven-jaxb2-plugin-core-0.8.0.jar
+2016-08-24 16:23:44,050 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno/1.3.1/maven-plugin-anno-1.3.1.jar
+2016-08-24 16:23:44,206 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jfrog/maven/annomojo/maven-plugin-anno/1.3.1/maven-plugin-anno-1.3.1.jar
+2016-08-24 16:23:44,315 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.8.0/maven-jaxb22-plugin-0.8.0.jar
+2016-08-24 16:23:44,502 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.8.0/maven-jaxb22-plugin-0.8.0.jar
+2016-08-24 16:23:44,643 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.4-1/jaxb-impl-2.2.4-1.jar
+2016-08-24 16:23:46,252 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-impl/2.2.4-1/jaxb-impl-2.2.4-1.jar
+2016-08-24 16:23:46,361 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.3/jaxb-api-2.2.3.jar
+2016-08-24 16:23:46,610 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.3/jaxb-api-2.2.3.jar
+2016-08-24 16:23:46,844 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.4-1/jaxb-xjc-2.2.4-1.jar
+2016-08-24 16:23:52,555 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.4-1/jaxb-xjc-2.2.4-1.jar
+2016-08-24 16:23:55,036 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projectfive/src/main/java
+2016-08-24 16:23:55,098 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projectfive/generated/src/main/java
+2016-08-24 16:23:55,114 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projectfive/src/main/resources
+2016-08-24 16:23:55,114 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projectfive/src/test/java
+2016-08-24 16:23:58,546 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projectfour/src/main/java
+2016-08-24 16:23:58,546 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projectfour/src/main/resources
+2016-08-24 16:23:58,546 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projectfour/src/test/java
+2016-08-24 16:23:59,840 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for projectfive
+2016-08-24 16:23:59,903 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for projectfour
+2016-08-24 16:23:59,918 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 24 sec
+2016-08-24 16:24:03,491 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:03,491 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projecteight\src\main\resources
+2016-08-24 16:24:03,506 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:03,506 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projecteight\src\test\resources
+2016-08-24 16:24:04,052 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:24:04,630 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-plugin/0.5.6/hyperjaxb3-ejb-plugin-0.5.6.pom
+2016-08-24 16:24:05,503 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-plugin/0.5.6/hyperjaxb3-ejb-plugin-0.5.6.pom
+2016-08-24 16:24:06,221 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/annox/annox/0.5.0/annox-0.5.0.pom
+2016-08-24 16:24:06,595 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/annox/annox/0.5.0/annox-0.5.0.pom
+2016-08-24 16:24:07,328 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/annox/annox-project/0.5.0/annox-project-0.5.0.pom
+2016-08-24 16:24:07,609 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/annox/annox-project/0.5.0/annox-project-0.5.0.pom
+2016-08-24 16:24:08,155 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2016-08-24 16:24:08,452 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/sonatype/oss/oss-parent/3/oss-parent-3.pom
+2016-08-24 16:24:09,029 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-annotate/0.6.2/jaxb2-basics-annotate-0.6.2.pom
+2016-08-24 16:24:09,372 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-annotate/0.6.2/jaxb2-basics-annotate-0.6.2.pom
+2016-08-24 16:24:09,980 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-tools/0.6.2/jaxb2-basics-tools-0.6.2.pom
+2016-08-24 16:24:10,355 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-tools/0.6.2/jaxb2-basics-tools-0.6.2.pom
+2016-08-24 16:24:10,932 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics/0.6.2/jaxb2-basics-0.6.2.pom
+2016-08-24 16:24:11,291 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics/0.6.2/jaxb2-basics-0.6.2.pom
+2016-08-24 16:24:11,884 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-roundtrip/0.5.6/hyperjaxb3-ejb-roundtrip-0.5.6.pom
+2016-08-24 16:24:12,242 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-roundtrip/0.5.6/hyperjaxb3-ejb-roundtrip-0.5.6.pom
+2016-08-24 16:24:12,820 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2016-08-24 16:24:13,615 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2016-08-24 16:24:14,177 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-testing/0.6.2/jaxb2-basics-testing-0.6.2.pom
+2016-08-24 16:24:14,603 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-testing/0.6.2/jaxb2-basics-testing-0.6.2.pom
+2016-08-24 16:24:15,229 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/xmlunit/xmlunit/1.0/xmlunit-1.0.pom
+2016-08-24 16:24:15,573 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/xmlunit/xmlunit/1.0/xmlunit-1.0.pom
+2016-08-24 16:24:16,134 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/commons-io/commons-io/1.2/commons-io-1.2.pom
+2016-08-24 16:24:16,509 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/commons-io/commons-io/1.2/commons-io-1.2.pom
+2016-08-24 16:24:17,166 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.pom
+2016-08-24 16:24:17,540 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.pom
+2016-08-24 16:24:18,117 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2016-08-24 16:24:19,258 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2016-08-24 16:24:19,819 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-persistence/0.5.6/hyperjaxb3-ejb-schemas-persistence-0.5.6.pom
+2016-08-24 16:24:20,163 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-persistence/0.5.6/hyperjaxb3-ejb-schemas-persistence-0.5.6.pom
+2016-08-24 16:24:20,663 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas/0.5.6/hyperjaxb3-ejb-schemas-0.5.6.pom
+2016-08-24 16:24:21,115 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas/0.5.6/hyperjaxb3-ejb-schemas-0.5.6.pom
+2016-08-24 16:24:21,739 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.6/hyperjaxb3-ejb-schemas-customizations-0.5.6.pom
+2016-08-24 16:24:22,153 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.6/hyperjaxb3-ejb-schemas-customizations-0.5.6.pom
+2016-08-24 16:24:22,714 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/springframework/spring/2.0.7/spring-2.0.7.pom
+2016-08-24 16:24:23,058 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/springframework/spring/2.0.7/spring-2.0.7.pom
+2016-08-24 16:24:23,588 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2016-08-24 16:24:23,900 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/commons-logging/commons-logging/1.1/commons-logging-1.1.pom
+2016-08-24 16:24:24,462 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-tools/0.6.2/jaxb2-basics-tools-0.6.2.jar
+2016-08-24 16:24:24,477 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-plugin/0.5.6/hyperjaxb3-ejb-plugin-0.5.6.jar
+2016-08-24 16:24:24,493 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-annotate/0.6.2/jaxb2-basics-annotate-0.6.2.jar
+2016-08-24 16:24:24,508 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/annox/annox/0.5.0/annox-0.5.0.jar
+2016-08-24 16:24:24,524 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics/0.6.2/jaxb2-basics-0.6.2.jar
+2016-08-24 16:24:24,633 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-tools/0.6.2/jaxb2-basics-tools-0.6.2.jar
+2016-08-24 16:24:24,852 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-tools/0.6.2/jaxb2-basics-tools-0.6.2.jar
+2016-08-24 16:24:24,961 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-plugin/0.5.6/hyperjaxb3-ejb-plugin-0.5.6.jar
+2016-08-24 16:24:24,976 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-annotate/0.6.2/jaxb2-basics-annotate-0.6.2.jar
+2016-08-24 16:24:25,086 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics/0.6.2/jaxb2-basics-0.6.2.jar
+2016-08-24 16:24:25,117 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/annox/annox/0.5.0/annox-0.5.0.jar
+2016-08-24 16:24:25,195 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-annotate/0.6.2/jaxb2-basics-annotate-0.6.2.jar
+2016-08-24 16:24:25,304 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics/0.6.2/jaxb2-basics-0.6.2.jar
+2016-08-24 16:24:25,398 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/annox/annox/0.5.0/annox-0.5.0.jar
+2016-08-24 16:24:25,585 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-plugin/0.5.6/hyperjaxb3-ejb-plugin-0.5.6.jar
+2016-08-24 16:24:25,632 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-roundtrip/0.5.6/hyperjaxb3-ejb-roundtrip-0.5.6.jar
+2016-08-24 16:24:25,772 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-roundtrip/0.5.6/hyperjaxb3-ejb-roundtrip-0.5.6.jar
+2016-08-24 16:24:25,959 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-roundtrip/0.5.6/hyperjaxb3-ejb-roundtrip-0.5.6.jar
+2016-08-24 16:24:26,178 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar
+2016-08-24 16:24:26,412 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/jaxb2_commons/jaxb2-basics-testing/0.6.2/jaxb2-basics-testing-0.6.2.jar
+2016-08-24 16:24:26,568 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar
+2016-08-24 16:24:26,583 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-testing/0.6.2/jaxb2-basics-testing-0.6.2.jar
+2016-08-24 16:24:26,661 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/xmlunit/xmlunit/1.0/xmlunit-1.0.jar
+2016-08-24 16:24:26,724 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/jaxb2_commons/jaxb2-basics-testing/0.6.2/jaxb2-basics-testing-0.6.2.jar
+2016-08-24 16:24:26,817 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/xmlunit/xmlunit/1.0/xmlunit-1.0.jar
+2016-08-24 16:24:26,942 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar
+2016-08-24 16:24:26,973 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/commons-io/commons-io/1.2/commons-io-1.2.jar
+2016-08-24 16:24:27,020 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/xmlunit/xmlunit/1.0/xmlunit-1.0.jar
+2016-08-24 16:24:27,192 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/commons-io/commons-io/1.2/commons-io-1.2.jar
+2016-08-24 16:24:27,301 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2016-08-24 16:24:27,394 [resolver-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/commons-io/commons-io/1.2/commons-io-1.2.jar
+2016-08-24 16:24:27,457 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2016-08-24 16:24:27,831 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar
+2016-08-24 16:24:27,987 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2016-08-24 16:24:28,096 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2016-08-24 16:24:28,923 [resolver-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2016-08-24 16:24:29,173 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-persistence/0.5.6/hyperjaxb3-ejb-schemas-persistence-0.5.6.jar
+2016-08-24 16:24:29,282 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-persistence/0.5.6/hyperjaxb3-ejb-schemas-persistence-0.5.6.jar
+2016-08-24 16:24:29,750 [resolver-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-persistence/0.5.6/hyperjaxb3-ejb-schemas-persistence-0.5.6.jar
+2016-08-24 16:24:29,984 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/springframework/spring/2.0.7/spring-2.0.7.jar
+2016-08-24 16:24:30,000 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.6/hyperjaxb3-ejb-schemas-customizations-0.5.6.jar
+2016-08-24 16:24:30,140 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.6/hyperjaxb3-ejb-schemas-customizations-0.5.6.jar
+2016-08-24 16:24:30,156 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://maven-us.nuxeo.org/nexus/content/repositories/public/org/springframework/spring/2.0.7/spring-2.0.7.jar
+2016-08-24 16:24:31,310 [resolver-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/jvnet/hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.6/hyperjaxb3-ejb-schemas-customizations-0.5.6.jar
+2016-08-24 16:24:35,787 [resolver-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://maven-us.nuxeo.org/nexus/content/repositories/public/org/springframework/spring/2.0.7/spring-2.0.7.jar
+2016-08-24 16:24:40,311 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:40,326 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:24:40,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:24:40,373 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:40,373 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\test\resources
+2016-08-24 16:24:40,373 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of projectfive
+2016-08-24 16:24:40,373 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for projectfive
+2016-08-24 16:24:40,389 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.mycila.maven-license-plugin:maven-license-plugin:jar:1.9.0 is missing, no dependency information available
+2016-08-24 16:24:40,389 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.mycila.maven-license-plugin:maven-license-plugin:1.9.0: Plugin com.mycila.maven-license-plugin:maven-license-plugin:1.9.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.mycila.maven-license-plugin:maven-license-plugin:jar:1.9.0 has not been downloaded from it before.
+2016-08-24 16:24:40,404 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-javadoc-plugin:jar:2.8.1 is missing, no dependency information available
+2016-08-24 16:24:40,404 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-javadoc-plugin:2.8.1: Plugin org.apache.maven.plugins:maven-javadoc-plugin:2.8.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-javadoc-plugin:jar:2.8.1 has not been downloaded from it before.
+2016-08-24 16:24:40,420 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-site-plugin:jar:3.1 is missing, no dependency information available
+2016-08-24 16:24:40,420 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.mycila.maven-license-plugin:maven-license-plugin:jar:1.9.0 is missing, no dependency information available
+2016-08-24 16:24:40,436 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.mycila.maven-license-plugin:maven-license-plugin:1.9.0: Plugin com.mycila.maven-license-plugin:maven-license-plugin:1.9.0 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.mycila.maven-license-plugin:maven-license-plugin:jar:1.9.0 has not been downloaded from it before.
+2016-08-24 16:24:40,436 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-javadoc-plugin:jar:2.8.1 is missing, no dependency information available
+2016-08-24 16:24:40,451 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-javadoc-plugin:2.8.1: Plugin org.apache.maven.plugins:maven-javadoc-plugin:2.8.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-javadoc-plugin:jar:2.8.1 has not been downloaded from it before.
+2016-08-24 16:24:40,467 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:40,467 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\${targetServer}
+2016-08-24 16:24:40,950 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:24:42,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:42,214 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:24:42,230 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:24:42,230 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:42,230 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\test\resources
+2016-08-24 16:24:53,428 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:24:54,754 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:54,769 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:24:54,769 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:24:54,769 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:54,769 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\test\resources
+2016-08-24 16:24:55,284 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:24:56,142 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:56,142 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:24:56,158 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:24:56,158 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:24:56,158 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\test\resources
+2016-08-24 16:24:56,283 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:24:56,283 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:24:56,314 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:24:56,314 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfour\src\test\resources
+2016-08-24 16:24:56,314 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of projectfour
+2016-08-24 16:24:56,314 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for projectfour
+2016-08-24 16:24:56,329 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:24:56,938 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:24:56,938 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectnine\src\main\resources
+2016-08-24 16:24:56,938 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:24:56,953 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectnine\src\test\resources
+2016-08-24 16:24:57,390 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Configured Artifact: org.wildfly:wildfly-dist:8.0.0.Final:zip
+2016-08-24 16:24:57,390 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - wildfly-dist-8.0.0.Final.zip already unpacked.
+2016-08-24 16:24:58,108 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: C:\Users\admin\Desktop\labMavenWorkspace\projectfive\generated\src\main\java added.
+2016-08-24 16:25:00,908 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:00,908 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:25:00,908 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:00,923 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:00,923 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectfive\src\test\resources
+2016-08-24 16:25:01,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:01,376 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-24 16:25:01,391 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:01,407 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:25:02,670 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:02,670 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 16:25:02,670 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:02,670 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 16:25:03,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:03,762 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:03,778 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-24 16:25:03,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:03,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:04,464 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:04,464 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:04,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:04,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:04,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-08-24 16:25:04,605 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:25:04,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:25:04,620 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-08-24 16:25:04,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\labMavenWorkspace\projectten\src\test\resources
+2016-08-24 16:25:05,073 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:05,088 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-08-24 16:25:05,088 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:05,088 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-08-24 16:25:05,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:05,728 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2016-08-24 16:25:05,775 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-08-24 16:25:05,775 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-24 16:25:05,775 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
