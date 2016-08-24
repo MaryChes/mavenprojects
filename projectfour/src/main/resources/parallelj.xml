@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+
+        ParallelJ, framework for parallel computing
+
+        Copyright (C) 2010, 2011, 2012 Atos Worldline or third-party contributors as
+        indicated by the @author tags or express copyright attribution
+        statements applied by the authors.
+
+        This library is free software; you can redistribute it and/or
+        modify it under the terms of the GNU Lesser General Public
+        License as published by the Free Software Foundation; either
+        version 2.1 of the License.
+
+        This library is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+        Lesser General Public License for more details.
+
+        You should have received a copy of the GNU Lesser General Public
+        License along with this library; if not, write to the Free Software
+        Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+-->
+<parallelj xmlns="http://parallelj.org">
+    <servers>
+        <telnet port="10000" host="localhost"/>
+        <jmx port="9000" host="localhost"/>
+        
+        <!-- Uncomment this to enable the remote access using the embedded SSH server.
+        	WARNING:  
+			/home/user/.ssh/id_rsa :
+				Must be replaced with the ssh server private key.
+				Note: It must be the dsa/rsa OpenSSH private key file of the system.
+			/home/user/.ssh/authorized_keys:
+				Must be replaced with the ssh server authorized public keys file.
+				Note: It must be the OpenSsh authorized public keys file of the system.
+		-->
+		<!-- 
+	    <ssh port="22">
+	    	<auths>
+				<auth type="org.parallelj.ssh.publickey.ParalleljSshPublicKey">
+					<property name="server-private-key">/home/user/.ssh/id_rsa</property>
+					<property name="server-authorized-keys">/home/user/.ssh/authorized_keys</property>
+				</auth>
+			</auths>
+		</ssh>
+		 -->
+		 
+        <!-- 
+        <beans>
+            <bean class=""/>
+        </beans>
+         -->
+    </servers>
+    
+<!--     
+   	<executor-services default-service-type="FIXED_THREAD_POOL" default-pool-size="1">
+		<executor-service program-name="my.program.Program1" service-type="CACHED_THREAD_POOL"/>
+		<executor-service program-name="my.program.Program2" service-type="SINGLE_THREAD_EXECUTOR"/>
+		<executor-service program-name="my.program.Program3" service-type="FIXED_THREAD_POOL" pool-size="10" />
+		<executor-service program-name="my.program.Program4" service-type="PROVIDED" service-class="my.program.MyExecutorServiceClass"/>
+	</executor-services>
+-->
+</parallelj>
